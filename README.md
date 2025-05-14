@@ -1,2 +1,10 @@
-# id-gen
-My first Python project. An easy-to-use ID generator to make fake Names, Fake CCs, etc! 
+# Flownit's ID Generator
+This is my first Python project. It's an easy-to-use ID generator that can make fake names, fake credit cards, and other types of fake IDs.
+The Flownit ID generator is a project to create an effective solution for the generation of ID files. It should be able to create fake IDs for use in testing or whatever other application the user sees fit.
+This project is open source so everyone can see the code and contribute.
+
+## How to use 📋
+### Just download the file in Releases!
+
+
+# Thank you for your support!
